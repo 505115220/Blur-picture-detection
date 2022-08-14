@@ -11,8 +11,13 @@
 上述模糊度可以手动调节
 
 You can download the compiled file,
+
 The address is: Share file: Blur.exe, China Technology Cloud Network Disk Link: https://pan.cstcloud.cn/s/zBe0FKmT6w
+
 This software is a a simple example of the CV2 library /Opencv-python
+
 The main function of the software is to detect whether the picture in the folder is a blurred picture, and export the absolute path of the blurred picture to the specified location
+
 The program can be easily modified to move the blurred pictures to the specified folder
+
 The above blurriness can be adjusted manually
